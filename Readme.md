@@ -26,12 +26,12 @@
         <td ><center><img src="./assets/main_desktop.png"  >Main Desktop view</center></td>
     </tr>
     <tr>
-        <td ><center><img src="./assets/Upload_mobile.png" >Upload Mobile view </center></td>
-        <td ><center><img src="./assets/Upload_desktop.png"  >Upload Desktop view</center></td>
+        <td ><center><img src="./assets/upload_mobile.png" >Upload Mobile view </center></td>
+        <td ><center><img src="./assets/upload_desktop.png"  >Upload Desktop view</center></td>
     </tr>
     <tr>
-        <td ><center><img src="./assets/Video_mobile.png" >Video Mobile view </center></td>
-        <td ><center><img src="./assets/Video_desktop.png"  >Video Desktop view</center></td>
+        <td ><center><img src="./assets/video_mobile.png" >Video Mobile view </center></td>
+        <td ><center><img src="./assets/video_desktop.png"  >Video Desktop view</center></td>
     </tr>
     <tr>
         <td>

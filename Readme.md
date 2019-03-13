@@ -2,7 +2,7 @@
 
 ## What it is   
 
-### Fancy video is a react based PAW that allow users to watch/upload media content(video and audio) and stream the media content based on the dash protocol. That means it allow users to switch the video quality at any time without any stall.
+#### Fancy video is a react based PWA that allow users to watch/upload media content(video and audio) and stream the media content based on the dash protocol. That means it allow users to switch the video quality at any time without any stall.
 
 [Click](https://code.steins.live) to view the online demo.
 
